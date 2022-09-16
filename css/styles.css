@@ -1,0 +1,45 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+button {
+  font-family: inherit;
+  border-radius: 4px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 0 15px;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.input {
+  margin: 0;
+  padding: 0;
+}
